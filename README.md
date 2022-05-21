@@ -2,7 +2,7 @@
 <br>
 
 ## Simple Introduction
-- 2016 ~ 2020, 이화여자대학교 학사 통계학과 심화 전공, 컴퓨터공학 부전공
+- 2016 ~ 2020, 이화여자대학교 학사 통계학과 심화 전공, 컴퓨터공학 부전공 (수석 졸업)
 - 2021 ~ 2022, 이화여자대학교 석사 통계학과 응용 전공
 - 언어 : <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=3776AB"/></a> <img src="https://img.shields.io/badge/R-yellow?style=flat&logo=R&logoColor=#276DC3"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> 
 - 자격증 : SQLD, ADsP, 사회조사분석사 2급, 컴퓨터활용능력 1급 <br>
