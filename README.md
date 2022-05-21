@@ -1,4 +1,6 @@
 ## Hi, Welcome to Jihye's Github! 👋
+:e-mail: yeidea@ewhain.net
+:e-mail: wisdo0115@gmail.com
 
 ## Simple Introduction
 - 2016 ~ 2020, 이화여자대학교 학사 통계학과 심화 전공, 컴퓨터공학 부전공 (수석 졸업)
