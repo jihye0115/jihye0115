@@ -12,9 +12,8 @@
 
 ## Data Science Project & Study
 ### 2022
-- (진행중) 코로나 전세계 나라 클러스터링
-- (진행중) Projection Pursuit
-- (진행중) GAN을 이용한 이미지 이상치 탐지
+- 코로나 전세계 나라 클러스터링
+- GAN을 이용한 이미지 이상치 탐지
 
 ### 2021
 - [빅콘테스트 2021](https://github.com/jihye0115/2021-Bigcontest2021-JejuFoodWaste) 제주도 음식물쓰레기 배출량 예측 및 해결 방안 제안 - 최우수상 수상 :star::star2:
