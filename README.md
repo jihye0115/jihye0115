@@ -30,13 +30,8 @@
 
 ### 2019
 - [청소년의 진로 결정 능력 요인 분석](https://github.com/jihye0115/2019-Teen-Career-Decision) - 교내 공모전 수상 :star:
-- ESAA 활동 : Python 및 머신러닝 공부 시작, MySQL 스터디
 - [상권분석 및 DB 설계](https://github.com/jihye0115/2018-2019-course-project) - 데이터베이스 수업 프로젝트
 - [국민체력실태조사 데이터 분석](https://github.com/jihye0115/2018-2019-course-project) - 다변량분석및실습 수업 프로젝트
-
-### 2018
-- [교통사고 데이터 분석](https://github.com/jihye0115/2018-2019-course-project) - 빅데이터를이용한통계그래픽스 수업 프로젝트
-
 
 
 <!--
