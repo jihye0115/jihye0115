@@ -21,7 +21,7 @@
 - [CNN을 이용한 코로나19 흉부 X선 이미지 분류](https://github.com/jihye0115/2021-Covid-Image-Analysis-using-CNN) - CNN 모델 구조 이해를 중심으로 
 - [STEM 연봉 데이터 분석 & 삼성과 애플 스마트폰 이미지 분류](https://github.com/jihye0115/2021-Advanced-Data-Analysis-Final-Project) - 자료분석특론 수업 실습
 - [해석 가능한 충분 차원 축소](https://github.com/jihye0115/2021-Sparse-SDR-Project) - Sparse SDR 논문 구현
-- [SCIC 2021 삼성카드 고객 피드백 분류 모델 기획](https://github.com/jihye0115/2021-SCIC2021-NLP) :star:
+- [SCIC 2021 삼성카드 고객 피드백 분류 모델 기획](https://github.com/jihye0115/2021-SCIC2021-NLP) 
 
 ### 2020
 - [빅콘 2020](https://github.com/jihye0115/2020-Bigcontest2020-NSshop) - NS 홈쇼핑 판매 실적 예측
