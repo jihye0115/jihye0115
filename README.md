@@ -12,12 +12,14 @@
 
 ## Data Science Project & Study
 ### 2022
+- **논문** Projection Pursuit을 이용한 Cluster Tree
+- 건물의 전력량 예측 및 요인 분석
 - 코로나 전세계 나라 클러스터링
 - [GAN을 이용한 이미지 이상치 탐지](https://github.com/jihye0115/2022-Anomaly-Detection-using-GAN)
 
 ### 2021
-- [빅콘테스트 2021](https://github.com/jihye0115/2021-Bigcontest2021-JejuFoodWaste) 제주도 음식물쓰레기 배출량 예측 및 해결 방안 제안 - 최우수상 수상 :star:
-- [Matrix Factorization을 활용한 추천시스템 구현](https://github.com/jihye0115/2021-Recommendation-System-Project)
+- 2021.08 ~ 2021.09 [빅콘테스트 2021](https://github.com/jihye0115/2021-Bigcontest2021-JejuFoodWaste) 제주도 음식물쓰레기 배출량 예측 및 해결 방안 제안 - 최우수상 수상 :star:
+- 2021.11 [Matrix Factorization을 활용한 추천시스템 구현](https://github.com/jihye0115/2021-Recommendation-System-Project)
 - [CNN을 이용한 코로나19 흉부 X선 이미지 분류](https://github.com/jihye0115/2021-Covid-Image-Analysis-using-CNN) - CNN 모델 구조 이해를 중심으로 
 - [STEM 연봉 데이터 분석 & 삼성과 애플 스마트폰 이미지 분류](https://github.com/jihye0115/2021-Advanced-Data-Analysis-Final-Project) - 자료분석특론 수업 실습
 - [해석 가능한 충분 차원 축소](https://github.com/jihye0115/2021-Sparse-SDR-Project) - Sparse SDR 논문 구현
