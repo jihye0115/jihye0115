@@ -1,5 +1,5 @@
 ## Hi, Welcome to Jihye's Github! 👋
-:e-mail: yeidea@ewhain.net <br>
+:e-mail: yeidea@naver.com <br>
 :e-mail: wisdo0115@gmail.com
 
 ## Simple Introduction
