@@ -12,7 +12,7 @@
 ### 2022
 - **논문** [사영 추적을 이용한 군집 분석](https://github.com/jihye0115/2022-Projection-Pursuit-for-Cluster-Tree)
 - 2022.05 ~ 06 고급통계학특론 기말 프로젝트 [GAN을 이용한 이미지 이상치 탐지](https://github.com/jihye0115/2022-Anomaly-Detection-using-GAN)
-- 2022.06 [데이터마이닝 기말프로젝트] 건물의 전력량 예측 및 요인 분석
+- 2022.06 [데이터마이닝 기말프로젝트] [건물의 전력량 예측 및 요인 분석](https://github.com/jihye0115/2022-Building-Elec-Energy)
 - 2022.05 [데이터마이닝 기말프로젝트] 뉴스 기사를 이용한 주가 등락 예측
 - 2022.05 코로나 확진자 및 사망자를 이용한 전세계 국가 클러스터링
 
