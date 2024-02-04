@@ -8,6 +8,11 @@
 - <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=3776AB"/></a> <img src="https://img.shields.io/badge/R-yellow?style=flat&logo=R&logoColor=#276DC3"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> 
 <br>
 
+## Career
+- 2020.07 ~ 2020.12 (6M), VNTG UX디자인센터 - 데이터 분석을 활용한 건강기능식품 서비스 기획
+- 2022.07 ~ 2022.08 (2M), SK C&C 데이터 분석팀 - 발전량 예측 시계열 모델 개발
+- 2023.03 ~, 삼성전자 혁신센터 MES팀 - 설비 모니터링 시스템
+
 ## Data Science Project & Study
 ### 2022
 - **논문** [사영 추적을 이용한 군집 분석](https://github.com/jihye0115/2022-Projection-Pursuit-for-Cluster-Tree)
