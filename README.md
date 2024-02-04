@@ -15,7 +15,7 @@
 
 ## Data Science Project & Study
 ### 2022
-- **논문** [사영 추적을 이용한 군집 분석](https://github.com/jihye0115/2022-Projection-Pursuit-for-Cluster-Tree)
+- 2022.02 ~ 12 **논문** [사영 추적을 이용한 군집 분석](https://github.com/jihye0115/2022-Projection-Pursuit-for-Cluster-Tree)
 - 2022.05 ~ 06 [GAN을 이용한 이미지 이상치 탐지](https://github.com/jihye0115/2022-Anomaly-Detection-using-GAN)
 - 2022.06 [건물의 전력량 예측 및 요인 분석](https://github.com/jihye0115/2022-Building-Elec-Energy)
 - 2022.05 뉴스 기사를 이용한 주가 등락 예측
@@ -23,7 +23,7 @@
 
 
 ### 2021
-- 2021.08 ~ 2021.09 [빅콘테스트 2021] [제주도 음식물쓰레기 배출량 예측 및 해결 방안 제안](https://github.com/jihye0115/2021-Bigcontest2021-JejuFoodWaste) - 최우수상 수상 :star:
+- 2021.08 ~ 2021.12 [빅콘테스트 2021] [제주도 음식물쓰레기 배출량 예측 및 해결 방안 제안](https://github.com/jihye0115/2021-Bigcontest2021-JejuFoodWaste) - 최우수상 수상 :star:
 - 2021.10 ~ 11 [Matrix Factorization을 활용한 추천시스템 구현](https://github.com/jihye0115/2021-Recommendation-System-Project)
 - 2021.10 ~ 11 [CNN을 이용한 코로나19 흉부 X선 이미지 분류](https://github.com/jihye0115/2021-Covid-Image-Analysis-using-CNN) - CNN 모델 구조 이해를 중심으로 
 - 2021.11 [STEM 연봉 데이터 분석 & 삼성과 애플 스마트폰 이미지 분류](https://github.com/jihye0115/2021-Advanced-Data-Analysis-Final-Project)
